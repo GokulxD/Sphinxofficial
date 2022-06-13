@@ -1,4 +1,4 @@
-# Hey whassup 😷[README.md](https://github.com/MaddieTheRock/MaddieTheRock/files/8889607/README.md)
+# Hey whassup 😷
 
 
 <!--
