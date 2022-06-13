@@ -3,7 +3,7 @@
 <h1 align="center">Hey whassup🎧</h1>
 <h3 align="center">A noob Developer From India Tamil nadu</h3>
 
-- 📫 reach me ** [@MaddieTheRock] (http://t.me/Maddietherock) on Telegram**
+- 📫 reach me ** [@MaddieTheRock](http://t.me/Maddietherock)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
