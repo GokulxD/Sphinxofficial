@@ -1,6 +1,6 @@
 ![Maddie](https://telegra.ph/file/d652e3c013a697eff614f.jpg)
 
-<h1 align="center">Hey whassup😷 MaddieTheRock</h1>
+<h1 align="center">Hey whassup🎧</h1>
 <h3 align="center">A noob Developer From India Tamil nadu</h3>
 
 - 📫 reach me ** https://t.me/MaddieTheRock on Telegram**
