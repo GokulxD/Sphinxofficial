@@ -1,5 +1,5 @@
 ![Maddie](https://telegra.ph/file/d652e3c013a697eff614f.jpg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey+Iam+Maddie+A+Noob+Dev)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey+Iam+Maddie+A+Noob+Dev+Living+In+Neptune)](https://git.io/typing-svg)
 
 ## Profile views counter
 ![Visitor Count](https://profile-counter.glitch.me/{bestiebotcreate}/count.svg)
