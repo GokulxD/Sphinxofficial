@@ -1,5 +1,5 @@
 ![Maddie](https://telegra.ph/file/d652e3c013a697eff614f.jpg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+My+GitHub+Profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey+Iam+Maddie+A+Noob+Dev)](https://git.io/typing-svg)
 
 <h1 align="center">Hey whassup🎧</h1>
 <h3 align="center">A noob Developer From India Tamil nadu</h3>
