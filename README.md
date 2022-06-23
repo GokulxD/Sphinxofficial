@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey+Iam+Maddie+A+Noob+Dev)](https://git.io/typing-svg)
 
 ## Profile views counter
-![Visitor Count](https://profile-counter.glitch.me/{shukurenaibotcreate}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{bestiebotcreate}/count.svg)
 
 
 <h1 align="center">Hey whassup🎧</h1>
