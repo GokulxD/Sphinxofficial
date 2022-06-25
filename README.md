@@ -1,4 +1,4 @@
-![Maddie](https://telegra.ph/file/55cdcf44c936d27a5db77.jpg)
+![Maddie](https://telegra.ph/file/85e9b2ac6484de53f45ac.jpg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey+Iam+Maddie+A+Noob+Dev)](https://git.io/typing-svg)
 
 ## Profile views counter
