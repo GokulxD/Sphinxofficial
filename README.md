@@ -3,7 +3,6 @@
 
 ## Profile views counter
 ![Visitor Count](https://profile-counter.glitch.me/{bestiebotcreate}/count.svg)
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=Awesome-tofu)
 
 <img alt="Loli Counter" src="https://count.getloli.com/get/@awesome-tofu?theme=gelbooru" />
 
