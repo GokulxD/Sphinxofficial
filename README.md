@@ -4,7 +4,7 @@
 ## Profile views counter
 ![Visitor Count](https://profile-counter.glitch.me/{bestiebotcreate}/count.svg)
 
-<img alt="Loli Counter" src="https://count.getloli.com/get/@awesome-tofu?theme=gelbooru" />
+<img alt="Loli Counter" src="https://count.getloli.com/get/@MaddieTheRock?theme=gelbooru" />
 
 
 
