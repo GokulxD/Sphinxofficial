@@ -7,7 +7,8 @@
 ![Visitor Count](https://profile-counter.glitch.me/{bestiebotcreate}/count.svg)
 
 ## New
-<img alt="Loli Counter" src="https://count.getloli.com/get/@MaddieTheRock?theme=gelbooru" />
+
+<a href="https://t.me/MaddieTheRock"><img alt="Cute Count" src="https://count.getloli.com/get/@MaddieTheRock?theme=rule34" /></a>
 
 
 
