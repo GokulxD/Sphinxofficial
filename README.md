@@ -2,8 +2,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey+Iam+Maddie+A+Noob+Dev)](https://git.io/typing-svg)
 
 ## Profile views counter
+
+## Old
 ![Visitor Count](https://profile-counter.glitch.me/{bestiebotcreate}/count.svg)
 
+## New
 <img alt="Loli Counter" src="https://count.getloli.com/get/@MaddieTheRock?theme=gelbooru" />
 
 
