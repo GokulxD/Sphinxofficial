@@ -1,5 +1,5 @@
 ![Yash](https://te.legra.ph/file/564b83ad6e0eb212df409.jpg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey+Iam+Maddie+A+Noob+Dev)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey+Iam+Yash+A+Noob+Dev)](https://git.io/typing-svg)
 
 ## Profile views counter
 
