@@ -15,14 +15,14 @@
 <h1 align="center">Hey whassup🎧</h1>
 <h3 align="center">A noob Developer From India Tamil nadu</h3>
 
-- 📫 reach me ** [@MaddieTheRock](http://t.me/Maddietherock)**
+- 📫 reach me  [Telegram](http://t.me/Itz_Y4sh)
 
 
 
 
 # Contact
 <p align="center">
-<a href="https://t.me/MaddieTheRock"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://t.me/Itz_Y4sh"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 
   **stats:**
    
