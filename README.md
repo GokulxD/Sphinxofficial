@@ -26,7 +26,7 @@
 
   **stats:**
    
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=MyselfYash&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sphinxofficial&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true">
   
   
 
